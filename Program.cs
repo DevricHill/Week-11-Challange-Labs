@@ -83,6 +83,10 @@
                     chances++;
                     letters[l] -= 2;
                     letters[o] -= 2;
+
+                    letters[b]--;
+                    letters[a]--;
+                    letters[n]--;
                 }
                 else
                 {
